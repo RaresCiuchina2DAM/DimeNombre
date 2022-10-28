@@ -1,10 +1,11 @@
-package com.example.prueba1_dimenombre
+package DimeNombre
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
+import com.example.prueba1_dimenombre.R
 
 class MainActivity : AppCompatActivity() {
 

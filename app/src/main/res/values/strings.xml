@@ -4,6 +4,7 @@
     <string name="app_name">ProgramaDimeTuNombre</string>
     <string name="nombre">Escribe tu nombre</string>
     <string name="boton">Enviar</string>
+    
 
 </resources>
 
