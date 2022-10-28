@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
     //Validamos que el nombre no esté vacío
     fun validar (): Boolean {
         return if (txtNombre.text.toString().isEmpty()){
-            txtNombre.error = "Campo obligatorio"
+            txtNombre.error = "Debe ingresar un nombre"
             false
         }else true
     }
